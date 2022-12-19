@@ -33,6 +33,6 @@ Um para muitos (1:N);
 Muitos para 1 (N:1). 
 
 <h2><strong> Banco de dados</strong></h2>
-<img src="\IMAGEM\printpage banco de dados - Copia.png" alt="banco de dados"/>
+<img src="..\bancodedados" alt="banco de dados"/>
 <img>
 </p>
