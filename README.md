@@ -7,10 +7,10 @@ Grazielle Firmino
 
 <img scr=/IMAGEM/printpage%20banco%20de%20dados.png)
 
-<h2><strong> Desafio</strong><h2>
+<h2><strong> Desafio</strong></h2>
 
 
-<h2><strong> Perguntas a serem respondidas</strong><h2>
+<h2><strong> Perguntas a serem respondidas</strong></h2>
 Existem outras entidades além dessas três?
 
 
