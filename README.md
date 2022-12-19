@@ -33,4 +33,5 @@ Um para muitos (1:N);
 Muitos para 1 (N:1). 
 
 <h2><strong> Banco de dados</strong></h2>
+
 ![bancodedados](https://user-images.githubusercontent.com/112557569/208456816-eb3188f6-4164-4b95-bc81-02cc3e51f957.png)
