@@ -12,18 +12,27 @@ As ferramentas utilizadas foram VScode, Miro (para modelagem) e GitHub
 
 
 <h2><strong> Perguntas a serem respondidas</strong></h2>
-Existem outras entidades além dessas três?
+<strong>Existem outras entidades além dessas três?</strong>
 
 
 Sim, além das entidades alunos, cursos e turmas foram criadas as entidades facilitadores, matricula e avaliação. 
 
 Considerando o modelo proposto pela Resilia educação, há a frente Soft voltada para o desenvolvimento das habilidades comportamentais e a frente Hard que é voltada para as habilidades técnicas, desse modo  uma turma pode ter mais de uma pessoa facilitadora.
 
-Quais os principais campos e tipos?
+<strong> Quais os principais campos e tipos?</strong>
+
+Os campos principais utilizados no banco são as chaves primárias (PK).Também são utilizados os campos Varchat, text, date, tikyint e int. 
+Os principais campos são as chaves 
 
 
 
-Como essas entidades são relacionadas?
+<strong>Como essas entidades são relacionada?</strong>
+
+Elas são relacionadas como muitos para muitos (N:N)
+Um para muitos (1:N);
+Muitos para 1 (N:1). 
+
+<h2><strong> Banco de dados</strong></h2>
 <img src="\IMAGEM\printpage banco de dados - Copia.png" alt="banco de dados"/>
 <img>
 </p>
