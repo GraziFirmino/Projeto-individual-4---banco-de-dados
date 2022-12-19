@@ -5,9 +5,10 @@ Projeto individual módulo 4 - para a Resilia/Senac.
 Grazielle Firmino 
 <p>
 
-<img scr="/IMAGEM/printpage%20banco%20de%20dados.png">
 
 <h2><strong> Desafio</strong></h2>
+Modelar um banco de dados para a Resilia educação. 
+As ferramentas utilizadas foram VScode, Miro (para modelagem) e GitHub
 
 
 <h2><strong> Perguntas a serem respondidas</strong></h2>
@@ -23,3 +24,6 @@ Quais os principais campos e tipos?
 
 
 Como essas entidades são relacionadas?
+<img src="\IMAGEM\printpage banco de dados - Copia.png" alt="banco de dados"/>
+<img>
+</p>
