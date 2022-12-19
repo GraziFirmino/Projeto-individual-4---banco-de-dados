@@ -5,7 +5,6 @@ Projeto individual módulo 4 - para a Resilia/Senac.
 Grazielle Firmino 
 <p>
 
-
 <h2><strong> Desafio</strong></h2>
 Modelar um banco de dados para a Resilia educação. 
 As ferramentas utilizadas foram VScode, Miro (para modelagem) e GitHub
