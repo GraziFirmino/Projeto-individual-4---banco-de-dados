@@ -4,7 +4,7 @@
 Projeto individual módulo 4 - para a Resilia/Senac. 
 Grazielle Firmino 
 <p>
-![Image](/printpage%20banco%20de%20dados.png)
+![Image](/IMAGEM/printpage%20banco%20de%20dados.png)
 
 <h2><strong> Desafio</strong><h2>
 
